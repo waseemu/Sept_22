@@ -4,3 +4,4 @@ scikit-learn
 seaborn
 flask
 flask_mysql
+pymysql
